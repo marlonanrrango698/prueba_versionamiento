@@ -2,4 +2,7 @@
 Esto es divertido
 ---------Chat----------------
 ALEXIS: ¿En que rama te ubicas?
+
 JEFF: Me encuentro en la rama Marlon_branch
+
+ALEXIS: ¿Cuál comando de Git es el que mas se te complico?
