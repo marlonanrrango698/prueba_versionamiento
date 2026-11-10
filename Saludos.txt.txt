@@ -13,3 +13,7 @@ ALEXIS: ¿Cuál es el comando para subir el stage con un comentario?
 
 JEFF: EL comando para subir al stage en el comentario es git commit -m "MENSAJE DEL COMMIT"
 
+ALEXIS: ¿Cuál es el comando para descargar las actualizaciones de los documentos?
+
+
+
