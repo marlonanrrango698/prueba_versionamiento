@@ -9,4 +9,5 @@ ALEXIS: ¿Cuál comando de Git es el que mas se te complico?
 
 JEFF: El comando que mas se me complico es el fetch
 
+ALEXIS: ¿Cuál es el comando para subir el stage con un comentario?
 
