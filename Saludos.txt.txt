@@ -15,5 +15,7 @@ JEFF: EL comando para subir al stage en el comentario es git commit -m "MENSAJE 
 
 ALEXIS: ¿Cuál es el comando para descargar las actualizaciones de los documentos?
 
+JEFF: El comando para descargar las actualizaciones de un commit que ya esta en github es git fetch
+
 
 
