@@ -19,7 +19,11 @@ JEFF: El comando para descargar las actualizaciones de un commit que ya esta en 
 
 ALEXIS: ¿Qué es una clase y un objeto?
 
-Una Clase son caracteristicas generales y los objetos tienen datos o caracteristicas puntuales, ejemplo Clase automovil y objeto mazda, ford o chevrolet
+Una Clase son caracteristicas generales y los objetos tienen datos o caracteristicas puntuales, ejemplo Clase automovil y objeto mazda, ford o Chevrolet
+
+
+
+---------------Fin Conversacion---------------
 
 
 
